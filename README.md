@@ -6,16 +6,13 @@ This project aims to understand how various factors, such as gender, ethnicity, 
 1. [Problem Statement](#problem-statement)
 2. [Project Overview](#project-overview)
 3. [Data Collection](#data-collection)
-5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-6. [Data Preprocessing](#data-preprocessing)
-7. [Model Training and Evaluation](#model-training-and-evaluation)
-8. [Choosing the Best Model](#choosing-the-best-model)
-9. [Technologies Used](#technologies-used)
-10. [Setup and Installation](#setup-and-installation)
-11. [Usage](#usage)
-12. [Results](#results)
-13. [Future Enhancements](#future-enhancements)
-14. [Acknowledgments](#acknowledgments)
+4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+5. [Data Preprocessing](#data-preprocessing)
+6. [Model Training and Evaluation](#model-training-and-evaluation)
+7. [Choosing the Best Model](#choosing-the-best-model)
+8. [Technologies Used](#technologies-used)
+9. [Results](#results)
+10. [Future Enhancements](#future-enhancements)
 
 ## Problem Statement
 
